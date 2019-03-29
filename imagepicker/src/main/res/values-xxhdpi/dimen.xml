@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="picButtonSize">58dp</dimen>
+
+    <dimen name="flashButtonSize">24dp</dimen>
+    <dimen name="imageGallerySize">34dp</dimen>
+
+    <dimen name="imageViewWidth">100dp</dimen>
+    <dimen name="imageViewHeight">100dp</dimen>
+
+    <dimen name="albumImageWidth">100dp</dimen>
+    <dimen name="albumImageHeight">100dp</dimen>
+
+
+    <dimen name="fabDoneSize">45dp</dimen>
+
+    <dimen name="com_example_algidaq_imagepicker_LargeFontSize">18sp</dimen>
+    <dimen name="com_example_algidaq_imagepicker_MedFontSize">16sp</dimen>
+    <dimen name="com_example_algidaq_imagepicker_SmallfontSize">12sp</dimen>
+    <dimen name="com_example_algidaq_imagepicker_TitlefontSize">20sp</dimen>
+
+</resources>

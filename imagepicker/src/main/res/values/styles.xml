@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="com_example_algidaq_imagepicker_ToolbarFont" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/com_example_algidaq_imagepicker_TitlefontSize</item>
+
+    </style>
+
+    <style name="com_example_algidaq_imagepicker_LargFont" parent="@style/TextAppearance.AppCompat.Large">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/com_example_algidaq_imagepicker_LargeFontSize</item>
+
+    </style>
+
+    <style name="com_example_algidaq_imagepicker_MedFont" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/seconderyTextColor</item>
+        <item name="android:textSize">@dimen/com_example_algidaq_imagepicker_MedFontSize</item>
+    </style>
+
+    <style name="com_example_algidaq_imagepicker_SmallFont" parent="@style/TextAppearance.AppCompat.Small">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/seconderyTextColor</item>
+        <item name="android:textSize">@dimen/com_example_algidaq_imagepicker_SmallfontSize</item>
+    </style>
+
+
+
+
+
+</resources>
